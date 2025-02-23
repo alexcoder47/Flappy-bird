@@ -13,4 +13,4 @@ restart - Esc button
 ![Screenshot 2025-02-23 162541](https://github.com/user-attachments/assets/91088c8e-dc9c-468d-a5fe-7a66dc4eb786)
 ![Screenshot 2025-02-23 163028](https://github.com/user-attachments/assets/1b335218-6ac4-4c0e-9f31-f046fa509463)
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
